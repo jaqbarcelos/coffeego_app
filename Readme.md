@@ -38,7 +38,7 @@ O CoffeeGo é uma solução digital para uma rede de cafeterias, permitindo que 
 
 ## 🌐 API utilizada
 
-- **MockAPI:** `https://6a1f1c50b79eec0d6cf085af.mockapi.io`
+- **MockAPI:** https://6a1f1c50b79eec0d6cf085af.mockapi.io
   - `/usuarios` — cadastro e autenticação de usuários
   - `/produtos` — cardápio de produtos
 
